@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dary-winata
-- 👀 I’m interested in Devops
+- 👀 I’m interested in Mobile Developer
 - 📫 How to reach me dary.winata15@gmail.com
 
 <!---
