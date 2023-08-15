@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dary-winata
-- 👀 I’m interested in Mobile Developer
+- 👀 I’m interested in Mobile Developer(IOS) and many of things
 - 📫 How to reach me dary.winata15@gmail.com
+- 👨🏻‍💻 My linkedin https://www.linkedin.com/in/dary-winata-992537170/
 
 <!---
 dary-winata/dary-winata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
