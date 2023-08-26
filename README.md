@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dary-winata
-- 👀 I’m interested in Mobile Developer(IOS) and many of things
+- 👀 I’m interested in Mobile Developer(IOS) and many things
 - 📫 How to reach me dary.winata15@gmail.com
 - 👨🏻‍💻 My linkedin https://www.linkedin.com/in/dary-winata-992537170/
 
